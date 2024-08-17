@@ -2,3 +2,4 @@
 
 
 local tekst
+remote tekst
