@@ -3,3 +3,6 @@
 
 local tekst
 remote tekst
+
+
+clear branches
