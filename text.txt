@@ -3,7 +3,7 @@ feature_new strochka 1
 feature_new strochka 2 changes new
 new line
 =======
-Strochka 3 main
+Strochka 3 mainasf
 strochka 4 main
 >>>>>>> mainfgad
 dgad
