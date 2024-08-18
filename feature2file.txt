@@ -1,3 +1,0 @@
-feature2 start commit
-
-feature2 second commit
