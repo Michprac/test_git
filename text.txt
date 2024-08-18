@@ -4,7 +4,7 @@ feature_new strochka 2 changes new
 new line
 =======
 Strochka 3 main
-strochka 4 main
+strochka 4 mainasdae
 >>>>>>> mainfgad
 
 adggw
