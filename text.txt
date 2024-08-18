@@ -6,3 +6,5 @@ new line
 Strochka 3 main
 strochka 4 main
 >>>>>>> main
+
+adggw
