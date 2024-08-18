@@ -5,6 +5,7 @@ new line
 =======
 Strochka 3 main
 strochka 4 mainasdae
->>>>>>> mainfgad
+>>>>>>> mainfgadfgwerg
+
 dgad
 adggw
